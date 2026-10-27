@@ -11,8 +11,8 @@
 
 ## Установка
 ```bash
-git clone https://github.com/dayvoens/ytgrab.git
-cd ytgrab
+git clone https://github.com/dayvoens/mediafetcher.git
+cd mediafetcher
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activates
 pip install -r requirements.txt
