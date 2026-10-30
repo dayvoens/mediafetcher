@@ -14,7 +14,7 @@
 git clone https://github.com/dayvoens/mediafetcher.git
 cd mediafetcher
 python -m venv .venv
-source .venv/bin/activate        # Windows: .venv\Scripts\activates
+source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
@@ -22,4 +22,4 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-Вставь ссылку и выбери папку. Если нажать «Отмена», видео сохранится в папку «Видео».
+Вставь ссылку и выбери папку. Если нажать «Отмена», скачивание отменится.
