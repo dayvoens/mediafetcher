@@ -8,6 +8,10 @@
   - Fedora: `sudo dnf install ffmpeg`
   - Ubuntu/Debian: `sudo apt install ffmpeg`
   - Windows: `winget install Gyan.FFmpeg`
+- tkinter (для окна выбора папки)
+  - Fedora: `sudo dnf install python3-tkinter`
+  - Ubuntu/Debian: `sudo apt install python3-tk`
+  - Windows: уже входит в Python с python.org
 
 ## Установка
 ```bash
